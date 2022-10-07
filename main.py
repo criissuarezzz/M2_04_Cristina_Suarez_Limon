@@ -1,6 +1,24 @@
-pruebas_atl= [200, 100, 300]
-prueba1= pruebas_atl[1]
-prueba2= pruebas_atl[2]
-prueba3= pruebas_atl[3]
+pruebas_atl= [200, 100, 400] #lista
+tiempos=(29.3, 13.9, 58)  #tupla
 
-print("Mis pruebas favoritas de atletismo son", prueba1, prueba2, "y", prueba3)
+print(pruebas_atl)
+print(tiempos)
+
+print("\n")
+
+print(pruebas_atl[2:])
+print(tiempos[1])
+
+print("\n")
+print(pruebas_atl)
+print(tiempos)
+pruebas_atl[2]="300" #para reemplazar el elemento 2 por 300
+print("Las tuplas no son modificables")
+
+print("\n")
+
+print(len(pruebas_atl))
+print(len(tiempos))
+
+print("\n")
+
