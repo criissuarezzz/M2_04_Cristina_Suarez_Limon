@@ -1,4 +1,4 @@
-pruebas_atl= [200, 100, longitud]
+pruebas_atl= [200, 100, 300]
 prueba1= pruebas_atl[1]
 prueba2= pruebas_atl[2]
 prueba3= pruebas_atl[3]
