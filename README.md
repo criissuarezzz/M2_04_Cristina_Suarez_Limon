@@ -17,7 +17,7 @@ Modifica (si se puede) algún elemento del set o del diccionario. Y mostrar el r
 Muestra el tamaño del set y del diccionario
 Realiza una búsqueda de un elemento dentro del set y dentro del diccionario. Mostrar si devuelve True o False
 Añade (si se puede) algún elemento al set y algun clave-valor al diccionario. Mostrar de nuevo el set y el diccionario para verificar si se ha realizado correctamente la acción.
-Borra o elimina (si se puede) el contenido del set y del diccionario. Mosstrar de nuevo el set y el diccionario para verificar si se ha realizado correctamente la acción
+Borra o elimina (si se puede) el contenido del set y del diccionario. Mostrar de nuevo el set y el diccionario para verificar si se ha realizado correctamente la acción
 3) Realizar un programa que pida al usuario 3 números que pueden ser flotantes (no es necesario realizar bucles aún, podemos repetir el código), estos números se deberán introducir en una lista. Cuando se haya finalizado la introducción de los datos, se mostrará el sumatorio de toda la lista. Guardar el sumatorio en una variable que se llame "sumatorio"
 Ayuda: Existe una función llamada sum(lista) ¡Pruébalo!
 4) Sobre el ejercicio anterior, queremos mostrar la media aritmética de los elementos de esa lista. Indicar la instrucción necesaria para obtenerla.
