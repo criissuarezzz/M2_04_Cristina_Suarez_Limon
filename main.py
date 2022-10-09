@@ -81,3 +81,14 @@ print(comidaset)
 
 print("\n\n\n")
 
+numero_1= int(float(input("Escribe un número:")))
+numero_2= int(float(input("Escribe un número:")))
+numero_3= int(float(input("Escribe un número:")))
+numeros=[numero_1, numero_2, numero_3]
+print(numeros)
+sumatorio= sum(numeros)
+print(sumatorio)
+
+print("\n\n\n")
+media=sumatorio/len(numeros)
+print(media)
